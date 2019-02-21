@@ -1,0 +1,24 @@
+endpoints:
+  enabled: true
+  actuator:
+    sensitive: false
+  auditevents:
+    sensitive: false
+  autoconfig:
+    sensitive: false
+  beans:
+    sensitive: false
+  configprops:
+    sensitive: false
+  metrics:
+    sensitive: false
+  mappings:
+    sensitive: false
+  trace:
+    sensitive: false
+  docs:
+    sensitive: false
+
+
+
+

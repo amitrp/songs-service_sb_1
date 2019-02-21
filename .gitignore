@@ -13,7 +13,6 @@
 
 ### IntelliJ IDEA ###
 .idea/
-.idea/modules.xml
 *.iws
 *.iml
 *.ipr
